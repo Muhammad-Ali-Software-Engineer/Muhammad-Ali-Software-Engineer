@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-### 💻 Software Engineering Student | Front-End Developer | UI/UX Designer  
+### 💻 Software Engineering Student | Front-End Developer | UI/UX Designer | Python Enthusiast  
 
 ---
 
@@ -8,14 +8,19 @@
 
 I'm a passionate and detail-oriented **Software Engineering student** at the **University of Gujrat, Punjab, Pakistan**, dedicated to crafting efficient, user-friendly, and visually appealing digital solutions.  
 
-I thrive on **designing intuitive interfaces**, building **responsive web applications**, and continuously learning modern technologies to enhance my development journey.  
-Driven by curiosity and creativity, I enjoy turning ideas into meaningful products that solve real-world problems.  
+I thrive on **designing intuitive interfaces**, building **responsive web applications**, and continuously learning modern technologies to enhance my development journey. Driven by curiosity and creativity, I enjoy turning ideas into meaningful products that solve real-world problems.  
+
+Alongside web development, I’m actively strengthening my programming skills through **Python mini projects**, focusing on file handling, data structures, and problem-solving.  
+
+I’m also familiar with **UML Design and Software Modeling**, studied during my **Software Design & Architecture** university course, where I worked on diagrams such as Use Case, Class, Sequence, Activity, and Collaboration diagrams to visualize and structure software systems effectively.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages & Frameworks  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +29,19 @@ Driven by curiosity and creativity, I enjoy turning ideas into meaningful produc
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Web Apps](https://img.shields.io/badge/Web_Applications-0078D7?style=for-the-badge&logo=web&logoColor=white)
+
+---
+
+## 📊 Software Design & Modeling  
+
+- UML Use Case Diagrams  
+- Class Diagrams  
+- Sequence Diagrams  
+- Activity Diagrams  
+- Collaboration Diagrams  
+- Software Architecture Concepts  
+
+> Learned through academic coursework: **Software Design & Architecture**
 
 ---
 
@@ -42,15 +60,16 @@ Driven by curiosity and creativity, I enjoy turning ideas into meaningful produc
 
 ## 🎯 What I'm Focusing On  
 
-- 🌱 Improving my front-end and UI/UX design skills  
-- 💡 Exploring advanced concepts in ASP.NET and full-stack web development  
-- 🔍 Learning about scalable and maintainable software architectures  
+- 🌱 Improving my **Front-End & UI/UX Design** skills  
+- 🐍 Building projects to strengthen my **Python programming**  
+- 💡 Exploring **ASP.NET & Full-Stack Development**  
+- 📊 Learning **scalable software architecture & system design**  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 **Email:** [MuhammadAliOfficial75@gmail.com](mailto:MuhammadAliOfficial75@gmail.com)  
+- 📧 **Email:** [MuhammadAliOfficial75@gmail.com](mailto:MuhammadAliOfficial75@gmail.com)  | [info.alideveloper@gmail.com](mailto:info.alideveloper@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/muhammad-ali-software-engineer](https://linkedin.com/in/muhammad-ali-software-engineer)  
 - 🧠 **GitHub:** [github.com/Muhammad-Ali-Software-Engineer](https://github.com/Muhammad-Ali-Software-Engineer)  
 
