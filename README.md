@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-### 💻 Software Engineering Student | Front-End Developer | UI/UX Designer | Python Enthusiast
+### 💻 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="position: relative; top: 4px;" /> Front-End Developer &nbsp;&nbsp; | &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="position: relative; top: 4px;" /> UI/UX Designer &nbsp;&nbsp; | &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" style="position: relative; top: 4px;" /> Python Enthusiast &nbsp;&nbsp; | &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22" style="position: relative; top: 4px;" /> Software Engineering Student
 
 ---
+
 
 ## 🧠 About Me
 
