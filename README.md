@@ -1,18 +1,35 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: nowrap;">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28" style="vertical-align: middle;" /> Software Engineering Student &nbsp;&nbsp; | &nbsp;&nbsp;
+<span>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="24" style="vertical-align: middle;" />
+Software Engineering Student
+</span>
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="28" style="vertical-align: middle;" /> Front-End Developer &nbsp;&nbsp; | &nbsp;&nbsp;
+<span>|</span>
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28" style="vertical-align: middle;" /> UI/UX Designer &nbsp;&nbsp; | &nbsp;&nbsp;
+<span>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="24" style="vertical-align: middle;" />
+Front-End Developer
+</span>
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="28" style="vertical-align: middle;" /> Python Enthusiast
+<span>|</span>
 
-</p>
+<span>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="24" style="vertical-align: middle;" />
+UI/UX Designer
+</span>
 
----
+<span>|</span>
+
+<span>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24" style="vertical-align: middle;" />
+Python Enthusiast
+</span>
+
+</div>
+
 
 
 
