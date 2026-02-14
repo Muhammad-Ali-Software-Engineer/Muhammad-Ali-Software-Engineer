@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Ali!
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22" style="vertical-align: middle;" /> Software Engineering Student &nbsp;&nbsp; | &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="vertical-align: middle;" /> Front-End Developer &nbsp;&nbsp; | &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="vertical-align: middle;" /> <b>Front-End Developer</b> &nbsp;&nbsp; | &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="vertical-align: middle;" /> UI/UX Designer &nbsp;&nbsp; | &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" style="vertical-align: middle;" /> Python Enthusiast
 
