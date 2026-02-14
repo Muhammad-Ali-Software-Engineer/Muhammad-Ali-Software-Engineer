@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: nowrap;">
+<div>
 
 <span>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="24" style="vertical-align: middle;" />
